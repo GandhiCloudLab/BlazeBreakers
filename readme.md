@@ -2,7 +2,14 @@
 
 Autonomous Detection, Response & Recovery
 
+
+#### Architecture
+
 <img src="images/arch.png">
+
+#### Home Page
+
+<img src="images/home.png">
 
 
 ## Prerequisite
